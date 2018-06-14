@@ -1,0 +1,9 @@
+C:\Users\CesarAugusto\source\repos\crossPlat\crossPlat\crossPlat\bin\Debug\netstandard2.0\crossPlat.deps.json
+C:\Users\CesarAugusto\source\repos\crossPlat\crossPlat\crossPlat\bin\Debug\netstandard2.0\crossPlat.dll
+C:\Users\CesarAugusto\source\repos\crossPlat\crossPlat\crossPlat\bin\Debug\netstandard2.0\crossPlat.pdb
+C:\Users\CesarAugusto\source\repos\crossPlat\crossPlat\crossPlat\obj\Debug\netstandard2.0\crossPlat.csprojAssemblyReference.cache
+C:\Users\CesarAugusto\source\repos\crossPlat\crossPlat\crossPlat\obj\Debug\netstandard2.0\crossPlat.csproj.CoreCompileInputs.cache
+C:\Users\CesarAugusto\source\repos\crossPlat\crossPlat\crossPlat\obj\Debug\netstandard2.0\crossPlat.AssemblyInfoInputs.cache
+C:\Users\CesarAugusto\source\repos\crossPlat\crossPlat\crossPlat\obj\Debug\netstandard2.0\crossPlat.AssemblyInfo.cs
+C:\Users\CesarAugusto\source\repos\crossPlat\crossPlat\crossPlat\obj\Debug\netstandard2.0\crossPlat.dll
+C:\Users\CesarAugusto\source\repos\crossPlat\crossPlat\crossPlat\obj\Debug\netstandard2.0\crossPlat.pdb
